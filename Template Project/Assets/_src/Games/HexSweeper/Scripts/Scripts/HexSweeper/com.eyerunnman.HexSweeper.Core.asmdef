@@ -1,0 +1,20 @@
+{
+    "name": "com.eyerunnman.HexSweeper.Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:95f37ef3c03417f4588f8aa70f7b786a",
+        "GUID:2aab019898caf494882892777ebbd4a3",
+        "GUID:b98bf120f3d9e424a939cea9837ff80b",
+        "GUID:d1061fabb1bd7f646be444b89156e60a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

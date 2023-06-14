@@ -1,0 +1,16 @@
+{
+    "name": "com.eyerunnman.HexSweeper.Audio",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2aab019898caf494882892777ebbd4a3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
